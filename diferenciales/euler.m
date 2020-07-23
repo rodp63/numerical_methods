@@ -13,4 +13,3 @@ function euler (x0, y0, h, b)
   legend('N(t)');
   
 endfunction
-
